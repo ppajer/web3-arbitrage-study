@@ -1,0 +1,31 @@
+{
+  "name": "@ppajer/web3-arbitrage-study",
+  "version": "0.0.1",
+  "description": "Research, experimentation and prototyping.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppajer/web3-arbitrage-study.git"
+  },
+  "author": "ppajer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppajer/web3-arbitrage-study/issues"
+  },
+  "homepage": "https://github.com/ppajer/web3-arbitrage-study#readme",
+  "dependencies": {
+    "@solana/web3.js": "^2.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-node": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2",
+    "tslib": "^2.8.1",
+    "typescript": "^5.7.2",
+    "typescript-eslint": "^8.17.0"
+  }
+}
