@@ -3,25 +3,26 @@
 Skeleton implementation of an arbitrage bot on Solana & EVM for the x777 project.
 
 ### Goals
+
 1. PHASE 1:
-    a. Minimum viable implementation
-    b. 2 Dex connections on SPL
-    c. Simulated trades
-    d. Testnet trades
-    e. Live trade
+    - Minimum viable implementation
+    - 2 Dex connections on SPL
+    - Simulated trades
+    - Testnet trades
+    - Live trade
 2. PHASE 2:
-    a. Prototypes for all subsystems on:
-        i. EVM
-        ii. SPL
-        iii. CEX
-    b. Core Control
-    c. Abstract Scanner
-    d. Abstract Connector
-    e. Abstract Executable
+    - Prototypes for all subsystems on:
+        - EVM
+        - SPL
+        - CEX
+    - Core Control
+    - Abstract Scanner
+    - Abstract Connector
+    - Abstract Executable
 3. PHASE 3:
-    a. New repo & cleanup
-    b. Core Package: `@x777-dev/Automata`
-    c. Implementation prototype
+    - New repo & cleanup
+    - Core Package: `@x777-dev/Automata`
+    - Implementation prototype
 
 ## Building
 
